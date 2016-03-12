@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">URL Scheme Test</string>
+    <string name="title_activity_service1">Service 1</string>
+</resources>
